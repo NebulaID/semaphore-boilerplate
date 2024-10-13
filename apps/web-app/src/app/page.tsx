@@ -39,11 +39,11 @@ export default function IdentitiesPage() {
     return (
         <>
             <Heading as="h2" size="xl">
-                Identities
+                Nebula Identities
             </Heading>
 
             <Text pt="2" fontSize="md">
-                The identity of a user in the Semaphore protocol. A{" "}
+                The identity of a user in the Semaphore protocol on Nebula Identity. A{" "}
                 <Link href="https://docs.semaphore.pse.dev/guides/identities" isExternal>
                     Semaphore identity
                 </Link>{" "}
